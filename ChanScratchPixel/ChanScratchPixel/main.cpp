@@ -8,8 +8,6 @@
 
 #include "ChSPMath.h"
 
-
-
 #define printVec3(s) std::cout << '(' << s.x << ", " << s.y << ", " << s.z << ')' << '\n';
 
 int main()
